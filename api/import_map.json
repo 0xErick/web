@@ -1,5 +1,10 @@
 {
     "imports": {
-      "oak":"https://deno.land/x/oak@v10.6.0/mod.ts"
+      "oak":"https://deno.land/x/oak@v10.6.0/mod.ts",
+      "dayjs":"https://esm.sh/dayjs@1.11.5",
+      "dayjs/utc":"https://esm.sh/dayjs@1.11.5/plugin/utc",
+      "dayjs/tz":"https://esm.sh/dayjs@1.11.5/plugin/timezone",
+      "ms":"https://esm.sh/ms@2.1.3",
+      "assert":"https://esm.sh/assert@2.0.0"
     }
   }
